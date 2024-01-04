@@ -1,0 +1,7 @@
+D:\practice project\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.csproj.AssemblyReference.cache
+D:\practice project\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.csproj.CoreCompileInputs.cache
+D:\practice project\Phase1Section5.8\Phase1Section5.8\bin\Debug\Phase1Section5.8.exe.config
+D:\practice project\Phase1Section5.8\Phase1Section5.8\bin\Debug\Phase1Section5.8.exe
+D:\practice project\Phase1Section5.8\Phase1Section5.8\bin\Debug\Phase1Section5.8.pdb
+D:\practice project\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.exe
+D:\practice project\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.pdb
